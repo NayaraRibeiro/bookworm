@@ -1,0 +1,21 @@
+.footer{
+    height: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #333333;
+}
+.footer_title {
+    color: white;
+    left: 50%;
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.git_logo {
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    left: 47%;
+}

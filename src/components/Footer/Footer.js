@@ -1,6 +1,8 @@
 import React, {Component} from 'react';
 import github_logo from '../../github-logo.svg';
 
+import './Footer.css'
+
 class Footer extends Component {
     render() {
         return (
