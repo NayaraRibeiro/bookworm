@@ -7,11 +7,11 @@ class Header extends Component {
         return (
             <div className='header'>
                 <div className='page_logo'>
+                    <a href="/" />
                     <div className='logo_header'>
                         <img src={bookworm_logo} alt="Page logo - draw of black bookshelf"/>
                     </div>
-
-                    <div className='page_title'>BOOKWORM</div>
+                    <div className='page_title' title='BOOKWORM'>BOOKWORM</div>
                 </div>
             </div>
 
