@@ -9,7 +9,8 @@ class Footer extends Component {
             <div className='footer'>
                 <div className='footer_title'>WHERE THE LIBRARY LIVES</div>
                 <div className='git_logo'>
-                    <img src={github_logo} alt="Github logo"/>
+                    <a href="https://github.com/NayaraRibeiro/bookworm" />
+                    <img src={github_logo} alt="Github logo" />
                 </div>
             </div>
         );
