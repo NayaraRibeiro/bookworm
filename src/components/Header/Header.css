@@ -1,0 +1,25 @@
+.header {
+    height: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.page_logo {
+    height: 100%;
+    padding-left: 80px;
+    width: 200px;
+
+}
+
+.logo_header {
+    width: 80px;
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.page_title {
+    display: inline-block;
+    height: 100%;
+    padding-left: 10px;
+    vertical-align: middle;
+}
