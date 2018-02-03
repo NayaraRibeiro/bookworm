@@ -18,15 +18,11 @@
 }
 
 .page_title {
-    display: inline-block;
-    height: 100%;
     padding-left: 10px;
-    vertical-align: middle;
+    position: absolute;
+    margin-top: 30px;
 }
 
-a {
-    height: 100%;
-    width: 200px;
-    padding-left: 80px;
-    padding-right: 50px;
+a:visited {
+    color: black;
 }
