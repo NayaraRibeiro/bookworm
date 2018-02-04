@@ -10,7 +10,7 @@ class Header extends Component {
                     <div className='logo_header'>
                         <a href="/">
                             <img src={bookworm_logo} alt="Page logo - draw of black bookshelf"/>
-                            <span className='page_title' title='BOOKWORM'>BOOKWORM</span>
+                            <span className='page_title' title='Bookworm Library'>BOOKWORM</span>
                         </a>
                     </div>
                 </div>
