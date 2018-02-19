@@ -6,9 +6,10 @@
 }
 
 .page_logo {
+    display: inline-block;
     height: 100%;
     padding-left: 80px;
-    width: 200px;
+    width: 15%;
 
 }
 
@@ -22,6 +23,22 @@
     padding-left: 10px;
     position: absolute;
     margin-top: 30px;
+}
+
+.header_nav {
+    display: inline-block;
+    padding-right: 80px;
+    float: right;
+    width: 60%;
+    height: 100%;
+    text-align: right;
+}
+
+.header_nav a {
+    position: relative;
+    top: 35%;
+    text-decoration: none;
+
 }
 
 a:visited {

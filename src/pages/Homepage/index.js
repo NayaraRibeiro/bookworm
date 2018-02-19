@@ -1,14 +1,11 @@
-import React, { Component } from 'react';
+import React from 'react';
 import App from "../../components/App/App";
 
-class Homepage extends Component {
-    render() {
-        return (
-            <div>
-                <App/>
-            </div>
-        );
-    }
-}
+
+const Homepage = () => (
+    <div>
+        <App/>
+    </div>
+);
 
 export default Homepage;

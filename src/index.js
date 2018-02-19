@@ -1,8 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import registerServiceWorker from './registerServiceWorker';
-import Homepage from "./pages/Homepage";
+import React from 'react'
+import { render } from 'react-dom'
+import Root from './router'
 
-ReactDOM.render(<Homepage />, document.getElementById('root'));
-registerServiceWorker();
+
+render(
+    <Root />,
+    document.getElementById('app')
+)
