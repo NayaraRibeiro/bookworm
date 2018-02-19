@@ -6,4 +6,4 @@ import Root from './router'
 render(
     <Root />,
     document.getElementById('app')
-)
+);
